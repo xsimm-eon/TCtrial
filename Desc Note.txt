@@ -1,2 +1,2 @@
 This is a notepad file that I want to add to my repo to test things out, pushing, pulling, committing, etc.
-Basically, I'm trying out git version control locally and remotely on my GitHub account.
+Basically, I'm trying out git version control locally and remotely on my GitHub account. added
